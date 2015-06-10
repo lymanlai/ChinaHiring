@@ -38,7 +38,18 @@ iHealthLabs 是总部在美国硅谷的医疗互联网产品的公司. 我们的
 
 ##在 iHealth 你可以得到什么
 
-1. 和美国硅谷同步的技术开发环境和开发工具. 
+1. 和美国硅谷同步的技术开发环境和开发工具. 我们使用的工具和技术平台包括
+```
+代码管理和 Issue tracking:  Githut
+项目任务管理: Trello
+主要编程语言: Javascript, Coffeescript, ES6 系列
+开发平台: Meteor.js Node.js Famo.us Cordova React.js 
+数据库: MongoDB
+硬件: Macbook Pro
+通讯平台: Maxtra, Slack (no QQ, sorry)
+附件: 键盘, 鼠标, 耳机, You pick we pay
+翻墙: 这个.....我们不方便说
+```
 2. 入职后先到美国短期工作一段时间 (你最后已有美国签证, 如果没有, 赶快去办)
 3. 自由平等开放的 Hacker 文化和创业的激情
 4. 有竞争力的待遇和股票期权计划
