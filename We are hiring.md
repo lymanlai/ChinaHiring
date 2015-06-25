@@ -40,7 +40,7 @@ iHealthLabs 是总部在美国硅谷的医疗互联网产品的公司. 我们的
 
 1. 和美国硅谷同步的技术开发环境和开发工具. 我们使用的工具和技术平台包括
 ```
-代码管理和 Issue tracking:  Githut
+代码管理和 Issue tracking:  Github
 项目任务管理: Trello
 主要编程语言: Javascript, Coffeescript, ES6 系列
 开发平台: Meteor.js Node.js Famo.us Cordova React.js 
