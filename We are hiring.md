@@ -46,7 +46,7 @@ iHealthLabs 是总部在美国硅谷的医疗互联网产品的公司. 我们的
 开发平台: Meteor.js Node.js Famo.us Cordova React.js 
 数据库: MongoDB
 硬件: Macbook Pro
-通讯平台: Maxtra, Slack (no QQ, sorry)
+通讯平台: Moxtra, Slack (no QQ, sorry)
 附件: 键盘, 鼠标, 耳机, You pick we pay
 翻墙: 这个.....我们不方便说
 ```
