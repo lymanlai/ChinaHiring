@@ -65,7 +65,7 @@ iHealthLabs 是总部在美国硅谷的医疗互联网产品的公司. 我们的
 
 1. 简历有没有都可以, 我需要你的 Linkedin URL
 2. 你的 Github 用户名. 并支出你自己比较满意的 Code 在哪个 Project 里面. 我们需要看到你的 code. 
-3. 如果你有 running online project 最好. 给我们 URL 和响应的 login
+3. 如果你有 running online project 最好. 给我们 URL 和相应的 login
 4. 你的期望薪资水平和目标职位
 5. 你何时可以就位开始工作
 
